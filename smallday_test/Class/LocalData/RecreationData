@@ -1,0 +1,561 @@
+{
+"msg": "request success.",
+"list": [{
+"room": "\u65b0\u5149\u60ac\u7591\u5267\u573a",
+"type": "\u8bdd\u5267\u821e\u53f0\u5267",
+"names": [{
+"id": 185,
+"name": "",
+"pinyin": ""
+}],
+"city": "\u4e0a\u6d77",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-509.html",
+"title": "\u6b27\u7f8e\u60ac\u7591\u540d\u5267\u300a\u7c73\u6b47\u5c14\u7684\u5e7d\u9b42\u300b",
+"id": 509,
+"classify_type": 4,
+"date": "2016-06-24",
+"price": "150/280",
+"content": "",
+"dates": ["2016-06-24 19:30:00", "2016-06-25 19:30:00", "2016-06-26 19:30:00", "2016-06-29 19:30:00", "2016-06-30 19:30:00", "2016-07-01 19:30:00", "2016-07-02 19:30:00", "2016-07-03 19:30:00", "2016-07-06 19:30:00", "2016-07-07 19:30:00", "2016-07-08 19:30:00", "2016-07-09 19:30:00", "2016-07-10 19:30:00"],
+"position": ""
+}, {
+"room": "\u661f\u6d77\u97f3\u4e50\u5385\u4ea4\u54cd\u4e50\u6f14\u594f\u5385",
+"type": "\u97f3\u4e50\u4f1a",
+"names": [{
+"id": 185,
+"name": "",
+"pinyin": ""
+}],
+"city": "\u5e7f\u5dde",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-1132.html",
+"title": "\u5e7f\u5dde\u4ea4\u54cd\u4e50\u56e22015\u201416\u97f3\u4e50\u5b63\u301022\u3011\u2014\u5df4\u6258\u514b\u7684\u7ecf\u5178",
+"id": 1132,
+"classify_type": 4,
+"date": "2016-07-09",
+"price": "80/120/180/280",
+"content": "",
+"dates": ["2016-07-09 20:00:00"],
+"position": ""
+}, {
+"room": "\u661f\u6d77\u97f3\u4e50\u5385\u4ea4\u54cd\u4e50\u6f14\u594f\u5385",
+"type": "\u97f3\u4e50\u4f1a",
+"names": [{
+"id": 185,
+"name": "",
+"pinyin": ""
+}],
+"city": "\u5e7f\u5dde",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-1133.html",
+"title": "\u5e7f\u5dde\u4ea4\u54cd\u4e50\u56e22015\u201416\u97f3\u4e50\u5b63\u301021\u3011\u2014\u76f8\u7ea6\u5927\u5e08\uff08\u4e8c\uff09\u2014\u514b\u91cc\u65af\u6258\u592b\u2022\u827e\u68ee\u5df4\u8d6b",
+"id": 1133,
+"classify_type": 4,
+"date": "2016-07-02",
+"price": "100/180/280/380/680",
+"content": "",
+"dates": ["2016-07-02 20:00:00"],
+"position": ""
+}, {
+"room": "\u661f\u6d77\u97f3\u4e50\u5385\u4ea4\u54cd\u4e50\u6f14\u594f\u5385",
+"type": "\u97f3\u4e50\u4f1a",
+"names": [{
+"id": 185,
+"name": "",
+"pinyin": ""
+}],
+"city": "\u5e7f\u5dde",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-1157.html",
+"title": "\u5e7f\u4e1c\u6c11\u65cf\u4e50\u56e22015\u201416\u97f3\u4e50\u5b63",
+"id": 1157,
+"classify_type": 4,
+"date": "2016-07-03",
+"price": "80/120/180/280/380",
+"content": "",
+"dates": ["2016-07-03 20:00:00"],
+"position": ""
+}, {
+"room": "\u5e7f\u5dde\u5927\u5267\u9662 \u6b4c\u5267\u5385",
+"type": "\u97f3\u4e50\u4f1a",
+"names": [{
+"id": 267,
+"name": "\u674e\u4e91\u8fea",
+"pinyin": "liyundi"
+}],
+"city": "\u5e7f\u5dde",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2049.html",
+"title": "\u674e\u4e91\u8fea\u8096\u90a6\u4f20\u5947\u94a2\u7434\u72ec\u594f\u97f3\u4e50\u4f1a\u4e16\u754c\u5de1\u6f14\u5e7f\u5dde\u7ad9",
+"id": 2049,
+"classify_type": 4,
+"date": "2016-07-01",
+"price": "180/280/480/680/880/1280/1680",
+"content": "",
+"dates": ["2016-07-01 20:00:00"],
+"position": ""
+}, {
+"room": "\u6d4e\u5357\u5965\u4f53\u4e2d\u5fc3\u4f53\u80b2\u9986",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 1,
+"name": "\u5218\u82e5\u82f1",
+"pinyin": "liuruoying"
+}],
+"city": "\u6d4e\u5357",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2053.html",
+"title": "2016\u5218\u82e5\u82f1\u201cRenext \u6211\u6562\u201d\u4e16\u754c\u5de1\u56de\u6f14\u5531\u4f1a\u6d4e\u5357\u7ad9",
+"id": 2053,
+"classify_type": 4,
+"date": "2016-07-02",
+"price": "380/480/580/980/1280",
+"content": "",
+"dates": ["2016-07-02 19:30:00"],
+"position": ""
+}, {
+"room": "\u5e7f\u5dde\u5927\u5267\u9662 \u6b4c\u5267\u5385",
+"type": "\u97f3\u4e50\u4f1a",
+"names": [{
+"id": 267,
+"name": "\u674e\u4e91\u8fea",
+"pinyin": "liyundi"
+}],
+"city": "\u5e7f\u5dde",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2062.html",
+"title": "\u674e\u4e91\u8fea\u8096\u90a6\u4f20\u5947\u94a2\u7434\u72ec\u594f\u97f3\u4e50\u4f1a\u4e16\u754c\u5de1\u6f14\u5e7f\u5dde\u7ad9",
+"id": 2062,
+"classify_type": 4,
+"date": "2016-07-01",
+"price": "180/280/480/680/880/1280/1680",
+"content": "",
+"dates": ["2016-07-01 20:00:00"],
+"position": ""
+}, {
+"room": "\u6d4e\u5357\u5965\u4f53\u4e2d\u5fc3\u4f53\u80b2\u9986",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 1,
+"name": "\u5218\u82e5\u82f1",
+"pinyin": "liuruoying"
+}],
+"city": "\u6d4e\u5357",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2066.html",
+"title": "2016\u5218\u82e5\u82f1\u201cRenext \u6211\u6562\u201d\u4e16\u754c\u5de1\u56de\u6f14\u5531\u4f1a\u6d4e\u5357\u7ad9",
+"id": 2066,
+"classify_type": 4,
+"date": "2016-07-02",
+"price": "380/480/580/980/1280",
+"content": "",
+"dates": ["2016-07-02 19:30:00"],
+"position": ""
+}, {
+"room": "\u91d1\u9633\u5965\u4f53\u4e2d\u5fc3",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 75,
+"name": "\u9648\u5955\u8fc5",
+"pinyin": "chenyixun"
+}],
+"city": "\u8d35\u9633",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2074.html",
+"title": "\u9648\u5955\u8fc5 ANOTHER EASON\u2019S LIFE\u6f14\u5531\u4f1a\uff0d\u8d35\u9633\u7ad9",
+"id": 2074,
+"classify_type": 4,
+"date": "2016-07-02",
+"price": "280/380/580/880/1280/1680",
+"content": "",
+"dates": ["2016-07-02 19:30:00"],
+"position": ""
+}, {
+"room": "\u534e\u6da6\u6df1\u5733\u6e7e\u4f53\u80b2\u4e2d\u5fc3\uff02\u6625\u8327\uff02\u4f53\u80b2\u9986",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 1,
+"name": "\u5218\u82e5\u82f1",
+"pinyin": "liuruoying"
+}],
+"city": "\u6df1\u5733",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2078.html",
+"title": "2016\u5218\u82e5\u82f1Renext \u6211\u6562\u4e16\u754c\u5de1\u56de\u6f14\u5531\u4f1a\u6df1\u5733\u7ad9",
+"id": 2078,
+"classify_type": 4,
+"date": "2016-07-09",
+"price": "280/480/680/880/1080",
+"content": "",
+"dates": ["2016-07-09 19:30:00"],
+"position": ""
+}, {
+"room": "\u5730\u8d28\u793c\u5802\u5267\u573a",
+"type": "\u8bdd\u5267\u821e\u53f0\u5267",
+"names": [{
+"id": 189,
+"name": "\u5f00\u5fc3\u9ebb\u82b1",
+"pinyin": "kaixinmahua"
+}],
+"city": "\u5317\u4eac",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2081.html",
+"title": "\u5f00\u5fc3\u9ebb\u82b1\u7206\u7b11\u821e\u53f0\u5267\u300a\u590f\u6d1b\u7279\u70e6\u607c\u300b",
+"id": 2081,
+"classify_type": 4,
+"date": "2016-06-24",
+"price": "80/130/180/210/230/280/330/380/410/430/480/530/610/680/730/810/880/1010/1080/1410/1760/2160/2640/3240",
+"content": "",
+"dates": ["2016-06-24 19:30:00", "2016-06-25 19:30:00", "2016-06-26 19:30:00"],
+"position": ""
+}, {
+"room": "\u8702\u5de2\u5267\u573a",
+"type": "\u8bdd\u5267\u821e\u53f0\u5267",
+"names": [{
+"id": 202,
+"name": "\u5b5f\u4eac\u8f89",
+"pinyin": "mengjinghui"
+}],
+"city": "\u5317\u4eac",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2082.html",
+"title": "\u5b5f\u4eac\u8f89\u620f\u5267\u4f5c\u54c1\u300a\u6211\u7231\u00d7\u00d7\u00d7\u300b",
+"id": 2082,
+"classify_type": 4,
+"date": "2016-07-05",
+"price": "50/100/150/200/380",
+"content": "",
+"dates": ["2016-07-05 19:30:00", "2016-07-06 19:30:00", "2016-07-07 19:30:00", "2016-07-08 19:30:00", "2016-07-09 14:30:00", "2016-07-09 19:30:00", "2016-07-10 14:30:00"],
+"position": ""
+}, {
+"room": "\u4e1c\u65b9\u827a\u672f\u4e2d\u5fc3 \u97f3\u4e50\u5385",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 96,
+"name": "\u9003\u8dd1\u8ba1\u5212",
+"pinyin": "taopaojihua"
+}],
+"city": "\u4e0a\u6d77",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2087.html",
+"title": "\u9003\u8dd1\u8ba1\u52122016\u5de1\u56de\u6f14\u5531\u4f1a\u4e0a\u6d77\u7ad9",
+"id": 2087,
+"classify_type": 4,
+"date": "2016-07-03",
+"price": "180/280/380/580/680",
+"content": "",
+"dates": ["2016-07-03 19:30:00"],
+"position": ""
+}, {
+"room": "\u6df1\u5733\u5e02\u5c11\u5e74\u5bab\u5267\u573a",
+"type": "\u8bdd\u5267\u821e\u53f0\u5267",
+"names": [{
+"id": 202,
+"name": "\u5b5f\u4eac\u8f89",
+"pinyin": "mengjinghui"
+}],
+"city": "\u6df1\u5733",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2091.html",
+"title": "\u9ea6\u620f\u805a\u2014\u5b5f\u4eac\u8f89\u620f\u5267\u300a\u4e24\u53ea\u72d7\u7684\u751f\u6d3b\u610f\u89c1\u300b",
+"id": 2091,
+"classify_type": 4,
+"date": "2016-07-06",
+"price": "100/180/280/380",
+"content": "",
+"dates": ["2016-07-06 20:00:00", "2016-07-07 20:00:00", "2016-07-08 20:00:00", "2016-07-09 14:30:00", "2016-07-09 20:00:00"],
+"position": ""
+}, {
+"room": "\u90d1\u5dde\u56fd\u9645\u4f1a\u5c55\u4e2d\u5fc3",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 173,
+"name": "\u674e\u5065",
+"pinyin": "lijian"
+}],
+"city": "\u90d1\u5dde",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2092.html",
+"title": "2016\u3010\u770b\u89c1 \u674e\u5065\u3011\u4e16\u754c\u5de1\u56de\u6f14\u5531\u4f1a\u90d1\u5dde\u7ad9 - \u4e2d\u56fd\u68a6\u00b7\u68a6\u4e4b\u84dd \u5448\u73b0",
+"id": 2092,
+"classify_type": 4,
+"date": "2016-07-16",
+"price": "380/580/780/980",
+"content": "",
+"dates": ["2016-07-16 19:30:00"],
+"position": ""
+}, {
+"room": "\u4e91\u5357\u7701\u4eba\u6c11\u653f\u5e9c\u6d77\u57c2\u4f1a\u5802",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 310,
+"name": "\u5f20\u695a",
+"pinyin": "zhangchu"
+}],
+"city": "\u6606\u660e",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2100.html",
+"title": "\u201c\u5fae\u5c0f\u76f8\u89c1\u201d\u5f20\u695a2016\u5168\u56fd\u5de1\u56de\u6f14\u5531\u4f1a \u6606\u660e\u7ad9",
+"id": 2100,
+"classify_type": 4,
+"date": "2016-07-16",
+"price": "180/280/380/480/680",
+"content": "",
+"dates": ["2016-07-16 20:00:00"],
+"position": ""
+}, {
+"room": "\u5929\u6d25\u5927\u793c\u5802",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 96,
+"name": "\u9003\u8dd1\u8ba1\u5212",
+"pinyin": "taopaojihua"
+}],
+"city": "\u5929\u6d25",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2104.html",
+"title": "\u9003\u8dd1\u8ba1\u52122016\u5de1\u56de\u6f14\u5531\u4f1a\u5929\u6d25\u7ad9",
+"id": 2104,
+"classify_type": 4,
+"date": "2016-06-26",
+"price": "180/280/380/580/680",
+"content": "",
+"dates": ["2016-06-26 19:30:00"],
+"position": ""
+}, {
+"room": "\u4e1c\u98ce\u65e5\u4ea7\u6587\u4f53\u4e2d\u5fc3\uff08\u4e1c\u839e\u7bee\u7403\u4e2d\u5fc3\uff09",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 168,
+"name": "\u5b59\u6960",
+"pinyin": "sunnan"
+}],
+"city": "\u4e1c\u839e",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2107.html",
+"title": "2016\u5b59\u6960\u2018\u4e50\u5728\u5176\u4e2d\u2019\u6f14\u5531\u4f1a\uff08\u4e1c\u839e\u7ad9\uff09",
+"id": 2107,
+"classify_type": 4,
+"date": "2016-07-16",
+"price": "380/680/880/1080",
+"content": "",
+"dates": ["2016-07-16 19:30:00"],
+"position": ""
+}, {
+"room": "\u8fbd\u5b81\u5927\u5267\u9662",
+"type": "\u8bdd\u5267\u821e\u53f0\u5267",
+"names": [{
+"id": 189,
+"name": "\u5f00\u5fc3\u9ebb\u82b1",
+"pinyin": "kaixinmahua"
+}],
+"city": "\u6c88\u9633",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2115.html",
+"title": "\u5f00\u5fc3\u9ebb\u82b1\u7ecf\u5178\u7206\u7b11\u821e\u53f0\u5267\u300a\u7237\u4eec\u513f\u2022\u53c1\u300b",
+"id": 2115,
+"classify_type": 4,
+"date": "2016-06-24",
+"price": "80/180/230/280/330/380/430/480/480/530/680/680/730/880/1080",
+"content": "",
+"dates": ["2016-06-24 19:00:00", "2016-06-25 19:00:00", "2016-06-26 19:00:00"],
+"position": ""
+}, {
+"room": "\u76db\u4eac\u5927\u5267\u9662",
+"type": "\u97f3\u4e50\u4f1a",
+"names": [{
+"id": 267,
+"name": "\u674e\u4e91\u8fea",
+"pinyin": "liyundi"
+}],
+"city": "\u6c88\u9633",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2116.html",
+"title": "\u674e\u4e91\u8fea\u8096\u90a6\u4f20\u5947\u94a2\u7434\u72ec\u594f\u97f3\u4e50\u4f1a",
+"id": 2116,
+"classify_type": 4,
+"date": "2016-07-10",
+"price": "680/880/1080",
+"content": "",
+"dates": ["2016-07-10 19:00:00"],
+"position": ""
+}, {
+"room": "\u8c6b\u73d1\u5267\u573a",
+"type": "\u8bdd\u5267\u821e\u53f0\u5267",
+"names": [{
+"id": 315,
+"name": "\u738b\u6653\u9e70",
+"pinyin": "wangxiaoying"
+}, {
+"id": 316,
+"name": "\u891a\u6813\u4e2d",
+"pinyin": "chushuanzhong"
+}],
+"city": "\u6c88\u9633",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2117.html",
+"title": "2016\u4e2d\u56fd\u56fd\u5bb6\u8bdd\u5267\u9662\u6f14\u51fa\u5b63\u660e\u661f\u7248\u8bdd\u5267\u300a\u4ffa\u7239\u6211\u7238\u300b",
+"id": 2117,
+"classify_type": 4,
+"date": "2016-07-01",
+"price": "80/180/280/380/480",
+"content": "",
+"dates": ["2016-07-01 19:30:00", "2016-07-02 19:30:00"],
+"position": ""
+}, {
+"room": "\u76db\u4eac\u5927\u5267\u9662\u6b4c\u5267\u5385",
+"type": "\u8bdd\u5267\u821e\u53f0\u5267",
+"names": [{
+"id": 190,
+"name": "\u6797\u5146\u534e",
+"pinyin": "linzhaohua"
+}],
+"city": "\u6c88\u9633",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2120.html",
+"title": "\u8bdd\u5267\u300a\u94f6\u952d\u6865\u300b",
+"id": 2120,
+"classify_type": 4,
+"date": "2016-07-05",
+"price": "50/100/200/300",
+"content": "",
+"dates": ["2016-07-05 19:00:00", "2016-07-06 19:00:00"],
+"position": ""
+}, {
+"room": "\u5e7f\u897f\u4f53\u80b2\u4e2d\u5fc3\u4f53\u80b2\u9986",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 312,
+"name": "\u674e\u514b\u52e4",
+"pinyin": "likeqin"
+}, {
+"id": 313,
+"name": "\u5bb9\u7956\u513f",
+"pinyin": "rongzuer"
+}],
+"city": "\u5357\u5b81",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2128.html",
+"title": "\u514b\u4e0d\u5bb9\u7f13-\u5bb9\u7956\u513f\u674e\u514b\u52e4\u4e2d\u56fd\u5de1\u56de\u6f14\u5531\u4f1a-\u5357\u5b81\u7ad9",
+"id": 2128,
+"classify_type": 4,
+"date": "2016-07-16",
+"price": "380/580/880/1180",
+"content": "",
+"dates": ["2016-07-16 20:00:00"],
+"position": ""
+}, {
+"room": "\u53a6\u95e8\u5609\u5e9a\u5267\u9662",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 5,
+"name": "\u5149\u826f",
+"pinyin": "guangliang"
+}],
+"city": "\u53a6\u95e8",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2138.html",
+"title": "\u54aa\u5495\u97f3\u4e50\u73b0\u573a-\u5149\u826f",
+"id": 2138,
+"classify_type": 4,
+"date": "2016-06-26",
+"price": "280/380/580",
+"content": "",
+"dates": ["2016-06-26 20:00:00"],
+"position": ""
+}, {
+"room": "\u91cd\u5e86\u5e02\u4eba\u6c11\u5927\u793c\u5802",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 327,
+"name": "\u9648\u7eee\u8d1e",
+"pinyin": "chenqizhen"
+}],
+"city": "\u91cd\u5e86",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2140.html",
+"title": "\u9648\u7eee\u8d1e Acoustic Cheer - ego\u623f\u95f4\u91cc\u7684\u97f3\u4e502016\u5de1\u56de - \u91cd\u5e86\u7ad9",
+"id": 2140,
+"classify_type": 4,
+"date": "2016-07-02",
+"price": "280/380/480/680/980",
+"content": "",
+"dates": ["2016-07-02 20:00:00"],
+"position": ""
+}, {
+"room": "\u6606\u5c71\u6587\u5316\u827a\u672f\u4e2d\u5fc3",
+"type": "\u8bdd\u5267\u821e\u53f0\u5267",
+"names": [{
+"id": 204,
+"name": "\u8d56\u58f0\u5ddd",
+"pinyin": "laishengchuan"
+}, {
+"id": 331,
+"name": "\u5c48\u4e2d\u6052",
+"pinyin": "quzhongheng"
+}, {
+"id": 332,
+"name": "\u738b\u4f1f\u5fe0",
+"pinyin": "wangweizhong"
+}],
+"city": "\u82cf\u5dde",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2143.html",
+"title": "\u8bdd\u5267 \u5b9d\u5c9b\u4e00\u6751",
+"id": 2143,
+"classify_type": 4,
+"date": "2016-07-16",
+"price": "180/280/380/480/580/680/780/880",
+"content": "",
+"dates": ["2016-07-16 19:30:00", "2016-07-17 19:30:00"],
+"position": ""
+}, {
+"room": "\u82cf\u5dde\u6587\u5316\u827a\u672f\u4e2d\u5fc3",
+"type": "\u8bdd\u5267\u821e\u53f0\u5267",
+"names": [{
+"id": 189,
+"name": "\u5f00\u5fc3\u9ebb\u82b1",
+"pinyin": "kaixinmahua"
+}],
+"city": "\u82cf\u5dde",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2152.html",
+"title": "2016\uff0c\u620f\u5267\u548c\u4f60\uff0c\u90fd\u662f\u98ce\u666f \u5f00\u5fc3\u9ebb\u82b1\u7ecf\u5178\u7206\u7b11\u821e\u53f0\u5267\u300a\u7f9e\u7f9e\u7684\u94c1\u62f3\u300b",
+"id": 2152,
+"classify_type": 4,
+"date": "2016-07-01",
+"price": "180/280/380/480/580/680",
+"content": "",
+"dates": ["2016-07-01 19:30:00"],
+"position": ""
+}, {
+"room": "\u91cd\u5e86\u5927\u5267\u9662",
+"type": "\u8bdd\u5267\u821e\u53f0\u5267",
+"names": [{
+"id": 294,
+"name": "\u5357\u6d3e\u4e09\u53d4",
+"pinyin": "nanpaisanshu"
+}],
+"city": "\u91cd\u5e86",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2154.html",
+"title": "\u5927\u578b\u9b54\u5e7b\u60ca\u609a\u8bdd\u5267\u300a\u76d7\u5893\u7b14\u8bb0III\u300b",
+"id": 2154,
+"classify_type": 4,
+"date": "2016-07-15",
+"price": "40/100/180/280/480/680",
+"content": "",
+"dates": ["2016-07-15 19:30:00", "2016-07-16 19:30:00"],
+"position": ""
+}, {
+"room": "\u5357\u660c\u56fd\u9645\u4f53\u80b2\u4e2d\u5fc3\u4f53\u80b2\u573a",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 75,
+"name": "\u9648\u5955\u8fc5",
+"pinyin": "chenyixun"
+}],
+"city": "\u5357\u660c",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2157.html",
+"title": "\u9648\u5955\u8fc5 ANOTHER EASON\u2019S LIFE\u6f14\u5531\u4f1a\uff0d\u5357\u660c\u7ad9",
+"id": 2157,
+"classify_type": 4,
+"date": "2016-07-09",
+"price": "280/380/580/880/1280/1680",
+"content": "",
+"dates": ["2016-07-09 19:30:00"],
+"position": ""
+}, {
+"room": "\u534e\u6da6\u6df1\u5733\u6e7e\u4f53\u80b2\u4e2d\u5fc3\uff02\u6625\u8327\uff02\u4f53\u80b2\u573a",
+"type": "\u6f14\u5531\u4f1a",
+"names": [{
+"id": 75,
+"name": "\u9648\u5955\u8fc5",
+"pinyin": "chenyixun"
+}],
+"city": "\u6df1\u5733",
+"share_url": "http://apiv2.xiaorizi.me/livehouse/content-2159.html",
+"title": "2016\u9648\u5955\u8fc5Another Eason\u2019s Life\u6f14\u5531\u4f1a \u6df1\u5733\u7ad9",
+"id": 2159,
+"classify_type": 4,
+"date": "2016-07-16",
+"price": "380/480/680/980/1280/1680",
+"content": "",
+"dates": ["2016-07-16 20:00:00"],
+"position": ""
+}],
+"code": 1
+}

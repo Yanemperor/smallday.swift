@@ -1,0 +1,194 @@
+{
+"msg": "request success.",
+"themes": [
+{
+"content": "四年一度的欧洲杯又如火如荼似地见缝插针到大家的日常生活中，从体育频道的全天循环播放，又或者是大街小巷里随着弄堂吆喝声传出来的加油喝彩的声响，于是各大酒肆深处的真伪球迷们开始使用上“名正言顺”的借口，开始欧洲杯重燃战火似的热烈！来吧，跟小伙伴们约起来……",
+"id": 768,
+"url": "http://apiv2.xiaorizi.me/theme/content-768.html",
+"img": "http://pic.huodongjia.com/new_dj_deploy/image/2016/06/24/971588e4217d1d12c1e4a922323dd856.jpg",
+"root_type": 7,
+"title": "在小酒馆看决赛才是正经事"
+},
+{
+"content": "告别一种生活，告别一个时代，告别一群人；你不知道未来面对你的会是什么，你不知道一些人会不会有机会重逢，无论如何愿你眼中一直有光芒，活成你想要的模样。想去哪里？走！用一次旅行纪念即将远去的学生时代吧~ 那个记忆中一直以温婉示人的杭州，是否有更多新奇有趣的去处等待着你去发现，下面会告诉你答案。",
+"id": 761,
+"url": "http://apiv2.xiaorizi.me/theme/content-761.html",
+"img": "http://pic.huodongjia.com/new_dj_deploy/image/2016/06/17/3634c94b5ddb1d4cdcf5d1b5b6111779.jpg",
+"root_type": 7,
+"title": "那些年，我们约好要去逛的店"
+},
+{
+"content": "初来杭州，你一定会去西湖旁走走，都说那堤畔旁的桃树与柳树和谐相生，不光给西湖带来欣欣向荣的人气，更给造访此处的游客带来神清气爽的好心情。是的，偌大的西湖能给你带来美好的心情，那么杭城里的一些小店，同样可以给你带来美好的小确幸。小日子为你精挑细选了小店六家，从闲情逸致的咖啡餐馆，到玩闹购物的创意小店，再到温馨舒适的城中民宿，总有一样，是你心水的“确幸”。",
+"id": 733,
+"url": "http://apiv2.xiaorizi.me/theme/content-733.html",
+"img": "http://pic.huodongjia.com/new_dj_deploy/image/2016/06/02/d410fb2a820295dc2e8b04ce95212760.jpg",
+"root_type": 7,
+"title": "第一次来杭州 值得去遇见的小确幸"
+},
+{
+"content": "每周最盼望的日子就是周末啦，没有烦人的工作夺命连环call，也不用在上班高峰期被挤成纸片人，懒懒地睡到自然醒，约上闺蜜吃个brunch，享受着美食音乐与暖阳......就像《欲望都市》里，那四个beautiful ladies 一样，悠闲地往窗边或街边一坐，一边享用着brunch，一边交换着当周奇葩经历以及大叔鲜肉......小日子为你精挑了七家提供brunch的餐吧咖啡馆，也许它们就在你的身边，不妨去好好发现一番吧！",
+"id": 734,
+"url": "http://apiv2.xiaorizi.me/theme/content-734.html",
+"img": "http://pic.huodongjia.com/new_dj_deploy/image/2016/05/26/bff5d786358ad0a1944bee67da44519d.jpg",
+"root_type": 7,
+"title": "周末放松之 杭州 brunch地图"
+},
+{
+"content": "房子本身没有感情，一所房子经过“营造”才能有家的雏形。在家里经历了快乐的、争吵的、幸福的、遗憾的等各种情感经历才配叫做“窝”。家具有社交性，更粗旷、更具包容性。而窝比家更细腻、亲切、温和、私密、不忍触碰。小日子为你推荐杭城五家家饰馆，在这里你可以欣赏与购买，学习如何去打造一个家的模样，将你脑海中关于家的美好幻化成现实的温暖的窝。",
+"id": 732,
+"url": "http://apiv2.xiaorizi.me/theme/content-732.html",
+"img": "http://pic.huodongjia.com/new_dj_deploy/image/2016/05/27/0fc1df8135591ed01aa2cb0604ba1676.jpg",
+"root_type": 7,
+"title": "这些店可以满足你关于家的美好"
+}
+],
+"cbds": [
+{
+"coord": "120.13451,30.20964",
+"id": 24,
+"shops": [],
+"img": "http://pic.huodongjia.com/new_dj_deploy/image/2016/06/27/4743660ae362c7e932abe136402ebbd9.jpg",
+"name": "虎跑",
+"radius": 1240.347797
+},
+{
+"coord": "120.13588,30.26617",
+"id": 25,
+"shops": [],
+"img": "http://pic.huodongjia.com/new_dj_deploy/image/2016/06/27/24528bb151a0690e0267466c83c6b6a6.jpg",
+"name": "黄龙",
+"radius": 6308.223428
+},
+{
+"coord": "120.0541,30.26171",
+"id": 27,
+"shops": [],
+"img": "http://pic.huodongjia.com/new_dj_deploy/image/2016/06/27/0abf20a6ef12d78d7874670067296acb.jpg",
+"name": "西溪",
+"radius": 8756.628881
+}
+],
+"tags": [
+{
+"id": 7182,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/19a3a97a1f7cc8ced932c94dabad794f.png",
+"name": "书屋"
+},
+{
+"id": 7278,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/55a92da0a5276191a14a9bff39b63821.png",
+"name": "咖啡馆"
+},
+{
+"id": 7236,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/065fc10abfa4f049a45ffd4c717c6998.png",
+"name": "餐吧"
+},
+{
+"id": 7304,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/931be66293c203dae0c570024197e857.png",
+"name": "茶空间"
+},
+{
+"id": 1065,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/698fc3f60fecff264448cfbda554377c.png",
+"name": "博物馆"
+},
+{
+"id": 7368,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/dee06fe84544dbc353f16e17513e0d12.png",
+"name": "工作室"
+},
+{
+"id": 7379,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/5af201ecab2a107ea7ac238606905380.png",
+"name": "手作坊"
+},
+{
+"id": 7402,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/c9c29a757352fc11f60c587a00b258a0.png",
+"name": "文化空间"
+},
+{
+"id": 7556,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/aa5cb15b8da345a062837317448e817f.png",
+"name": "画室"
+},
+{
+"id": 7586,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/28/a05ca8a27a1fac86dd86824cb392459a.png",
+"name": "快闪店"
+},
+{
+"id": 7595,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/8b8095b9e5c5a384f2313ec84ba11bfa.png",
+"name": "影吧"
+},
+{
+"id": 7596,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/6d3fef3fa56a840cce6984caf5736373.png",
+"name": "琴馆"
+},
+{
+"id": 7597,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/267b64269f15a7f3bbf760acdf9dd76a.png",
+"name": "戏馆"
+},
+{
+"id": 7328,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/5a4c9caf9d9dae69433befeb0fbe37d6.png",
+"name": "面包房"
+},
+{
+"id": 7310,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/6378a0d919e88b39f79d2b73f5a16da0.png",
+"name": "杂货铺"
+},
+{
+"id": 7279,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/4eb62fb1551796d65ecf9f4afcb2581e.png",
+"name": "花房"
+},
+{
+"id": 7281,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/0dc9dd71e735a0420bea96f9584a9295.png",
+"name": "生活馆"
+},
+{
+"id": 7282,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/38c96d36a0bd4519596681ad66dd71f8.png",
+"name": "旅舍"
+},
+{
+"id": 7283,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/f991b77a6f4c2308654a94b8c6024ff4.png",
+"name": "小酒馆"
+},
+{
+"id": 7291,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/d996aca4061af4e57dbc6d8838c0ee21.png",
+"name": "甜品铺"
+},
+{
+"id": 7294,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/cd95ca32d0a1f9858fb7f9e525228ad6.png",
+"name": "衣饰馆"
+},
+{
+"id": 7303,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/e1cbeb38687b7d34c9ea571cf447d000.png",
+"name": "艺术空间"
+},
+{
+"id": 7305,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/8ee9d8f61d59efa6cc522b538a8c283b.png",
+"name": "家饰馆"
+},
+{
+"id": 7677,
+"icon": "http://pic.huodongjia.com/new_dj_deploy/image/2016/04/27/5d8526071037486ac19c62ad8fa24dba.png",
+"name": "百年老店"
+}
+],
+"code": 1
+}

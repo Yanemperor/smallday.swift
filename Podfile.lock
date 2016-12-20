@@ -1,0 +1,53 @@
+PODS:
+  - Alamofire (4.0.1)
+  - MJRefresh (3.1.12)
+  - ReactiveCocoa (5.0.0-alpha.3):
+    - ReactiveSwift (~> 1.0.0-alpha.3)
+  - ReactiveSwift (1.0.0-alpha.3):
+    - Result (~> 3.0)
+  - Result (3.0.0)
+  - SDCycleScrollView (1.65):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SwiftyJSON (3.1.1)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - MJRefresh
+  - ReactiveCocoa (from `https://github.com/ReactiveCocoa/ReactiveCocoa.git`)
+  - SDCycleScrollView (~> 1.64)
+  - SDWebImage (~> 3.8)
+  - SwiftyJSON
+  - YYCategories
+  - YYModel
+
+EXTERNAL SOURCES:
+  ReactiveCocoa:
+    :git: https://github.com/ReactiveCocoa/ReactiveCocoa.git
+
+CHECKOUT OPTIONS:
+  ReactiveCocoa:
+    :commit: d7ad1f1bab1f18e56166d955bbfd6744fed09a8f
+    :git: https://github.com/ReactiveCocoa/ReactiveCocoa.git
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  ReactiveCocoa: 85155f9e61da2c294d2840e183d71f3fe7143743
+  ReactiveSwift: d67b677f9574ba614d94022a88fcf456e77fa515
+  Result: 1b3e431f37cbcd3ad89c6aa9ab0ae55515fae3b6
+  SDCycleScrollView: f72904c77698a7f93a41bcbbc2d78b073bf7326c
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: d8cbf6a6d6905058ad1896ff329329bf02fb38a8
+
+COCOAPODS: 1.0.0
